@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site":"profile-badge-gccf",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
