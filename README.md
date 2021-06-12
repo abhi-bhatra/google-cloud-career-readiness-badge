@@ -1,11 +1,13 @@
-# Google Cloud Computing foundations Program Badge Generator 🐱
+<img width="858" alt="gccf" src="https://user-images.githubusercontent.com/63901956/121785580-39eadd80-cbd8-11eb-8338-032767ee8039.png">
 
-![gccf ss](https://user-images.githubusercontent.com/65359068/121696909-2b25fd00-caea-11eb-9ff1-8aff1f7e56f7.png)
 
-Have you completed your Google Cloud Computing Foundations Program? 
-Time to uploada badge on your social handles!✨🌻
+# Google Cloud Career Readiness Program Badge Generator
 
-GCR Facilitator Program Badge Generator is inspired by 
-GDE Badge Generator by Henry Lim (https://github.com/limhenry/gde-badge-generator) ✨
+Thank you for choosing your journey with Google Cloud & enrolling yourself in Coursera Specialisation for ACE Track. We value your expertise and want you to help the Student Mentors in order to drive Google Cloud Career Readiness Program in a more accelerated manner.
 
-This project is not endorsed and/or supported by Google, the corporation.
+### Time to upload badge on your social handles!✨🌻
+
+Google Cloud Readiness Program Badge Generator is inspired by 
+GDE Badge Generator by Henry Lim (https://github.com/limhenry/gde-badge-generator) and created with <a href="https://www.linkedin.com/in/aditi-gupta-404/">Aditi Gupta</a>✨
+
+* This project is not endorsed and/or supported by Google, the corporation.
